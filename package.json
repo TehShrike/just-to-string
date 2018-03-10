@@ -1,0 +1,24 @@
+{
+  "name": "just-to-string",
+  "version": "1.0.0",
+  "description": "Just toString",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/just-to-string.git"
+  },
+  "keywords": [
+    "to",
+    "string",
+    "tostring"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/just-to-string/issues"
+  },
+  "homepage": "https://github.com/TehShrike/just-to-string#readme"
+}
